@@ -1,0 +1,1060 @@
+
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+
+.nzlotto-ygtp-right {
+    position: relative;
+    z-index: 9999;
+}
+
+.header-btns {
+    display: block !important;
+}
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+.container {
+    padding: 0 30px;
+}
+
+.nzlotto-ygtp-right {
+    position: relative;
+    z-index: 9999;
+}
+
+.footer-area {
+    border-radius: 100px 100px 0px 0px;
+}
+
+.header-btns {
+    display: block !important;
+}
+
+.popuppart {
+    width: 1024px;
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.header-btns {
+    display: block !important;
+}
+
+.container {
+    padding: 0 30px;
+}
+
+.mbtphero-left {
+  width: 60%;
+}
+
+.tphero-right {
+    width: 40%;
+}
+
+.nzlotto-ygtpimg2 {
+    display: none;
+}
+
+.nzlotto-tasocg-text h2 {
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+.nzlotto-tasocg-text p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.nzlotto-luyp-text h2 {
+  font-size: 18px;
+}
+
+
+.nzlotto-luyp-text p {
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.slider1-box h3 {
+  font-size: 16px;
+}
+
+.slider1-box p {
+  font-size: 12px;
+}
+
+.itembox h3 {
+  font-size: 17px;
+  padding: 22px 18px;
+}
+
+
+.footer-area {
+    padding: 80px 0;
+    border-radius: 70px 70px 0px 0px;
+}
+
+.footer-left {
+    width: 40%;
+}
+
+.footer-right {
+    width: 60%;
+}
+
+.footerlogos ul li {
+    margin-right: 13px;
+}
+
+.footerlogos ul li a img {
+    height: 53px;
+}
+
+.footer-part {
+    gap: 0px;
+}
+
+
+.popupleft {
+    display: none;
+}
+
+.popuppart {
+    width: 600px;
+    height: 600px;
+}
+
+.popupright {
+    width: 100%;
+    height: 100%;
+    padding: 50px 55px;
+}
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.container {
+    padding: 0 30px;
+}
+
+.header-btns {
+    display: block !important;
+}
+
+
+
+.innerhero-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin-top: 36px;
+}
+
+
+.tphero-part {
+    display: block;
+}
+
+.mbtphero-left {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+.tphero-right {
+    width: 100%;
+}
+
+
+.nzlotto-ygtp-part {
+    display: block;
+}
+
+.nzlotto-ygtp-left {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+.nzlotto-ygtp-right {
+    width: 100%;
+}
+
+
+.nzlotto-ygtpimg2 {
+    display: none;
+}
+
+.nzlotto-ygtp-left img {
+    max-width: 100%;
+    display: block;
+    height: 400px;
+    margin: auto;
+}
+
+
+
+.nzlotto-ygtp-right h2 br {
+    display: none;
+}
+
+.nzlotto-tasocg-part {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.nzlotto-jackpot-left {
+    padding-right: 50px;
+}
+
+.nztotimerbox-img img {
+    height: 101px;
+}
+
+.timer span {
+    font-size: 23px;
+    width: 46px;
+    height: 52px;
+}
+
+
+.timer {
+    margin-top: 23px;
+    margin-bottom: 10px;
+}
+
+
+.nzlotto-rwci-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+}
+
+.nzlotto-rwci-hd h2 {
+    font-size: 40px;
+}
+
+.nzlotto-tasocg-hd h2 {
+    font-size: 40px;
+}
+
+.nzlotto-ygtp-right h2 {
+    font-size: 40px;
+    line-height: 62px;
+    text-align: center;
+}
+
+.nzlotto-ygtp-right p {
+    text-align: center;
+}
+
+.nzlotto-luyp-hd h2 {
+    font-size: 40px;
+}
+
+.nzlotto-luyp-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 28px;
+    grid-row-gap: 28px;
+}
+
+
+.sliderhd-text h2 {
+    font-size: 40px;
+}
+
+
+.slider-area .owl-carousel .owl-item.center.active {
+    transform: scale(1.3) !important;
+    top: 0px;
+}
+
+.slider-area .owl-carousel .owl-stage-outer {
+    padding-top: 80px;
+    padding-bottom: 89px;
+}
+
+.faq-part {
+    display: block;
+}
+
+.faq-left {
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+
+.faq-right {
+    width: 100%;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footer-left {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+.footer-right {
+    width: 100%;
+}
+
+.footer-logo img {
+    margin: auto;
+    height: 45px;
+}
+
+.footer-list ul {
+    text-align: center;
+}
+
+.footer-nav ul {
+    padding-top: 46px;
+    text-align: center;
+}
+
+.footerpr-part p {
+    font-size: 14px;
+    text-align: center;
+}
+
+.footerlogos ul {
+    text-align: center;
+}
+
+.footerlogos ul li a img {
+    height: 65px;
+}
+
+
+.footer-area {
+    padding: 55px 0;
+    border-radius: 110px 110px 0px 0px;
+}
+
+
+
+.popupleft {
+    display: none;
+}
+
+.popuppart {
+    width: 600px;
+    height: 600px;
+}
+
+.popupright {
+    width: 100%;
+    height: 100%;
+    padding: 50px 55px;
+}
+
+
+
+
+}
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.headertop-area {
+    padding: 8px 16px;
+}
+
+.headertop-part p {
+    font-size: 10px;
+}
+
+.headertop-part p img {
+    width: 16px;
+    height: 16px;
+    display: block;
+    margin-right: 4px;
+}
+
+
+
+
+.header-area {
+	position: relative;
+}
+
+.menu-part {
+   display: block;
+}
+
+.header-logo {
+	width: 70%;
+}
+
+.header-logo img {
+    max-width: 100%;
+    display: block;
+    height: 35px;
+}
+
+.menu-part {
+	width: 30%;
+	text-align: right;
+}
+
+.header-btns {
+    position: absolute;
+    top: 58px;
+    background-color: #000;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    display: none;	
+}
+
+.header-btns ul {
+    text-align: center;
+}
+
+.header-btns ul li {
+    display: inline-block;
+    padding-right: 0px;
+    margin: 5px 2px;
+}
+
+.header-btns ul li a {
+    font-size: 14px;
+    width: 127px;
+    height: 44px;
+    display: block;
+    line-height: 44px;
+}
+
+
+.headertop-part p img {
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin-right: 3px;
+}
+
+.headertop-part p {
+    font-size: 9px;
+    font-weight: 500;
+}
+
+
+
+
+
+.hero-area {
+    padding: 30px 0;
+}
+
+.tphero-part {
+    display: block;
+}
+
+.tpherolt-text {
+    width: 100%;
+}
+
+.mbtphero-left {
+    width: 100%;
+}
+
+.tphero-left {
+    width: 100%;
+    border-radius: 12px;
+    padding: 30px 16px;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    padding-top: 150px;
+    background-image: inherit;
+}
+
+.tpherolt-text h1 {
+    font-size: 30px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.tpherolt-text p {
+    font-size: 12px;
+    text-align: center;
+}
+
+.tpherolt-text a {
+    font-size: 16px;
+    width: 133px;
+    height: 38px;
+    border-radius: 35px;
+    line-height: 36px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.tphero-right {
+    width: 100%;
+}
+
+.tphero-right {
+    padding: 30px 16px;
+}
+
+.tphero-right h2 {
+    font-size: 35px;
+    padding-bottom: 8px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.tphero-right p {
+    font-size: 12px;
+}
+
+.tphero-right a {
+    font-size: 16px;
+    width: 140px;
+    height: 38px;
+    margin: auto;
+    border-radius: 35px;
+    line-height: 36px;
+    margin-top: 22px;
+}
+
+
+.innerhero-part {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.nzlotto-ygtp-part {
+    display: block;
+}
+
+
+.nzlotto-ygtp-left {
+    width: 100%;
+}
+
+.nzlotto-ygtp-right {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.nzlotto-ygtp-right h2 {
+    font-size: 29px;
+    line-height: 40px;
+}
+
+.nzlotto-ygtp-right p {
+    font-size: 12px;
+    line-height: 22px;
+    padding-top: 15px;
+}
+
+.nzlotto-ygtp-area {
+    padding: 10px 0;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+.nzlotto-ygtpimg2 {
+    display: none;
+}
+
+.nzlotto-tasocg-hd h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.nzlotto-tasocg-hd {
+    padding-bottom: 30px;
+}
+
+.nzlotto-tasocg-part {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+
+.nzlotto-tasocg-text h2 {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.nzlotto-tasocg-text p {
+    font-size: 14px;
+    text-align: center;
+    line-height: 22px;
+    margin: 0;
+}
+
+.nzlotto-tasocg-area {
+    padding: 30px 0;
+}
+
+.nzlotto-jackpot-area {
+    padding: 35px 0;
+    padding-bottom: 20px;
+}
+
+.nzlotto-jackpot-part {
+    display: block;
+    padding: 35px 16px;
+}
+
+.nzlotto-jackpot-left {
+    width: 100%;
+    padding-right: 0px;
+    box-sizing: border-box;
+    padding-bottom: 50px;
+}
+
+.nzlotto-jackpot-left h2 {
+    font-size: 37px;
+    text-align: center;
+    font-weight: 900;
+    padding-bottom: 14px;
+}
+
+.nzlotto-jackpot-right {
+    width: 100%;
+}
+
+.nztotimerbox-img img {
+    height: 115px;
+}
+
+.timer span {
+    font-size: 23px;
+    line-height: 50px;
+    width: 50px;
+    height: 51px;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.nztotimerbox-text h3 {
+    font-size: 22px;
+}
+
+.nzlotto-rwci-area {
+    padding: 30px 0;
+}
+
+.nzlotto-rwci-hd h2 {
+    font-size: 30px;
+}
+
+.nzlotto-rwci-hd {
+    padding-bottom: 28px;
+}
+
+.nzlotto-rwci-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-row-gap: 30px;
+    text-align: center;
+}
+
+.nzlotto-rwci-text h2 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 32px;
+}
+
+.nzlotto-rwci-text p {
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+
+
+.nzlotto-rwcibtns a {
+    margin-top: 20px;
+}
+
+.nzlotto-rwci-text a {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.nzlotto-luyp-hd h2 {
+    font-size: 30px;
+}
+
+.nzlotto-luyp-area {
+    padding: 40px 0;
+}
+
+
+.nzlotto-luyp-hd {
+    padding-bottom: 40px;
+}
+
+
+.nzlotto-luyp-part {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+
+
+.footer-area {
+    padding: 30px 0;
+    padding-bottom: 25px;
+    border-radius: 40px 40px 0px 0px;
+}
+
+
+.footer-part {
+    display: block;
+}
+
+.copyright-area p {
+    font-size: 10px;
+}
+
+.footer-left {
+    width: 100%;
+    padding-bottom: 25px;
+}
+
+.footer-right {
+    width: 100%;
+}
+
+
+.footer-logo img {
+    margin: auto;
+    height: 40px;
+}
+
+.footer-list ul {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.footer-list ul li a img {
+    max-width: 100%;
+    display: block;
+    height: 35px;
+}
+
+.footer-nav ul li a {
+    font-size: 12px;
+}
+
+.footer-nav ul {
+    text-align: center;
+}
+
+.footer-nav ul li {
+    margin: 0 3px;
+    margin-bottom: 13px;
+}
+
+.footerpr-part p {
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+}
+
+
+.footerlogos ul {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.footerlogos ul li {
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+
+.footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: 50px;
+}
+
+
+
+.faq-part {
+    display: block;
+}
+
+.faq-left {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.faq-right {
+    width: 100%;
+}
+
+.itembox h3 {
+    font-size: 14px;
+    padding: 14px 14px;
+}
+
+.slider-area {    
+    padding: 40px 0;
+    padding-bottom: 25px;
+}
+
+.content {
+    padding: 0 16px 20px 16px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #333;
+}
+
+.faq-area {
+    padding: 20px 0;
+    padding-bottom: 30px;
+}
+
+.slider-area .owl-dots {
+    padding-top: 15px;
+}
+
+.slider-area .owl-carousel .owl-item.center.active {
+    transform: scale(1) !important;
+    box-shadow: none;
+    position: relative;
+    top: 0px;
+}
+
+
+.slider1-box p {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 0;
+    padding-bottom: 0px;
+}
+
+.slider1-box h3 {
+    font-size: 15px;
+    padding-top: 5px;
+    line-height: 30px;
+}
+
+.slider-area .owl-carousel .owl-stage-outer {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.sliderhd-text h2 {
+    font-size: 30px;
+}
+
+.slider-heading {
+    padding-bottom: 15px;
+}
+
+.popuppart {
+    width: 288px;
+    display: block;
+    margin: auto;
+    height: initial;
+}
+
+.popupleft {
+    display: none;
+}
+
+.popupright {
+    width: 100%;
+    height: 100%;
+    padding: 30px 16px;
+    margin-left: 0px;
+    z-index: 9;
+}
+
+.popupform-heading h3 {
+    font-size: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.popupform-heading p {
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.popupform-heading {
+    padding-bottom: 20px;
+}
+
+.popupform-item1 {
+    display: block;
+}
+
+.ppform-item1-left {
+    width: 100%;
+}
+
+.ppform-item1-right {
+    width: 100%;
+}
+
+.checkboxpart {
+    line-height: 26px;
+    font-size: 12px;
+    padding-right: 8px;
+}
+
+.popupformitems h6 {
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 17px;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+
+.popupform-item3 h5 {
+    font-size: 10px;
+    padding-top: 14px;
+    position: initial;
+    width: 100%;
+    text-align: center;
+}
+
+.close-btn img {
+    width: 14px;
+    height: 14px;
+}
+
+.close-btn {
+    width: 35px;
+    height: 35px;
+    top: -8px;
+    right: -8px;
+}
+
+.rbmeftpd-right p a {
+    font-size: 11px;
+}
+
+.popupformitems input {
+    font-size: 12px;
+}
+
+.popupformitems input::placeholder {
+    font-size: 12px;
+}
+
+.maincheckbox {
+    padding-bottom: 8px;
+}
+
+.popupformitems input[type="submit"] {
+    font-size: 14px;
+    padding: 12px 14px;
+}
+
+
+.newhero-left img {
+    display: none;
+}
+
+
+
+.newhero-part {
+    display: block;
+    gap: 0;
+    align-items: center;
+}
+
+.newhero-left {
+    width: 100%;
+}
+
+.newhero-right {
+    width: 100%;
+    display: none;
+}
+
+.newhero-left img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+.newhero-left h2 {
+    font-size: 30px;
+    font-weight: 900;
+    padding-bottom: 5px;
+    text-align: center;
+    padding-top: 21px;
+}
+
+.newhero-left p {
+    font-size: 16px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.newhero-area {
+    padding: 30px 0;
+}
+
+.newtextitem1 h2 {
+    font-size: 20px;
+}
+
+.newtextitem1 p {
+    font-size: 12px;
+    line-height: 22px;
+}
+
+
+.newtextitem2 h2 {
+    font-size: 20px;
+}
+
+.newtextitem2 ul li p {
+    font-size: 12px;
+    line-height: 20px;
+    padding-left: 12px;
+    margin-top: -12px;
+    font-weight: 400;
+}
+
+.newtexts-area {
+    padding: 40px 0;
+    padding-bottom: 20px;
+}
+
+
+
+
+}
