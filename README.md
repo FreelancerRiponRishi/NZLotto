@@ -1,0 +1,2 @@
+# NZLotto
+NZ Lotto
